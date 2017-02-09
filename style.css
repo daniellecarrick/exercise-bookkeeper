@@ -1,0 +1,16 @@
+body {
+	font-family: Arial;
+}
+
+.form-labels {
+	display:inline; 
+	width:15%; 
+	float:left;
+}
+
+.form-inputs {
+	display:inline; 
+	width:85%; 
+	float:left;
+	margin: 3px 0;
+}
